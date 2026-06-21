@@ -38,7 +38,6 @@ This project is built using PHP, MySQL, HTML, and CSS, following secure session-
 The following Entity Relationship (ER) diagram represents the overall database structure of the Municipal Complaint & Citizen Tracking System.  
 It shows the relationships between **citizen**, **admin**, **worker**, **complaint**, and **notification** entities.
 
-![ER Diagram](ER.png)
 ---
 
 ## 🔔 Notification System
